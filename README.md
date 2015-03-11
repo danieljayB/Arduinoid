@@ -1,6 +1,6 @@
 <h1>Arduinoid</h1>
 
-<br>Arduinoid is a Processing application that connects serially through bluetooth with an Arduino.</br>
+<br>Arduinoid is a Processing application that connects an Android device serially through bluetooth with an Arduino.</br>
 
 <b>To add:</b>
 <p>GPIO selection</p>
